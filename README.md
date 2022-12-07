@@ -1,2 +1,2 @@
 # today-i-learned
-sharing my everyday learnings
+keep track of things I learn everyday
